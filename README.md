@@ -10,6 +10,6 @@
 
 ## Demo
 
-Check out the live demo of Furniture Site at[Furniture Site](https://app.netlify.com/sites/furniturehome1/overview).
+Check out the live demo of Furniture Site at[Furniture Site](https://furniturehome1.netlify.app/).
 
 
